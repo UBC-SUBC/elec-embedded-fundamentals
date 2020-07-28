@@ -4,3 +4,12 @@
 *.synctex*
 *.out
 *.toc
+*.swp
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
